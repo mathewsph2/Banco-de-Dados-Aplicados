@@ -13,6 +13,7 @@ X - Produto Cartesiano
 
 
 
+
 1- Seleção
 
 2- Projeção

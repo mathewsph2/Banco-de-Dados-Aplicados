@@ -2,7 +2,11 @@
 
 
 σ - Sigma
+
 π - Pi
+
 ρ - Rhô
+
 X - Produto Cartesiano
+
 ⋈  - Junção
